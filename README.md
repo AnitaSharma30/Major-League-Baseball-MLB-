@@ -11,7 +11,7 @@ This project explores decades of Major League Baseball data using advanced SQL q
 The goal is to analyze how player statistics have changed over time and across different teams in the league.
 
 # Table creation
--- Table structure for table `school_details`
+-- **Table structure for table `school_details`**
 CREATE TABLE school_details (
     schoolID VARCHAR(50) PRIMARY KEY,
     name_full VARCHAR(100),
