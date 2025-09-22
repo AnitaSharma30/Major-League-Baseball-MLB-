@@ -1,2 +1,2 @@
-# Major-League-Baseball-MLB-
+# SQL Project- Major-League-Baseball-MLB
 This project has large amount of historical Player data.
